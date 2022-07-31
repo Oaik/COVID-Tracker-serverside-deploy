@@ -1,0 +1,6 @@
+{
+    "port": 8000,
+    "monogoURL": "mongodb+srv://omarmorsy:123@cluster0.mbqec.mongodb.net/covid19?retryWrites=true&w=majority&useNewUrlParser=true&useUnifiedTopology=true",
+    "secretKey": "topsecret"
+}
+
